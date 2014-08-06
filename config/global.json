@@ -1,8 +1,8 @@
 {
     "applications": {
         "Restaurant Console Push Notification": {
-            "applicationId": "WiZZ2i70z10NtCZo4OKdnfzKlmjZNxvt5K8FhI8Y", 
-            "masterKey": "XlYF5f1PoxUkcOG2wCZECiAwuHjehmTuHU5OWZdS"
+            "applicationId": "", 
+            "masterKey": ""
         }, 
         "_default": {
             "link": "Restaurant Console Push Notification"
